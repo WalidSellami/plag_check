@@ -1,1 +1,1 @@
---> ### API app (Backend) for Fahs app.
+--> API app (Backend) serves as the communication bridge for the Fahs app.
