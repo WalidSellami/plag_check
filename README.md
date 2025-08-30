@@ -7,7 +7,7 @@ A backend API powering the **Fahs App**, handling data exchange, plagiarism dete
 ### Clone the repository
 git clone https://github.com/WalidSellami/plag_check
 
-cd fahs-backend
+cd plag_check
 
 ### Create virtual environment
 python -m venv .venv
